@@ -1,0 +1,21 @@
+body{
+    background-color:aqua;
+    text-align:center;
+   
+}
+button{
+    border-radius: 10px;
+    font-size:20px;
+}
+textarea{
+    width:50%;
+    height: 20%;
+    font-weight:bold;
+    
+}
+input{
+    width: 15%;
+    height: 5%;
+    font-weight: bold;
+    
+}
